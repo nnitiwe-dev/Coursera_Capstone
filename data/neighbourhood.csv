@@ -1,0 +1,157 @@
+,Borough,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Brooklyn,Bay Ridge,40.625801065010656,-74.03062069353813,3,Spa,Italian Restaurant,Pizza Place,Greek Restaurant,American Restaurant,Bar,Bagel Shop,Chinese Restaurant,Café,Playground
+1,Brooklyn,Bensonhurst,40.61100890202044,-73.99517998380729,3,Chinese Restaurant,Italian Restaurant,Flower Shop,Donut Shop,Ice Cream Shop,Sushi Restaurant,Shabu-Shabu Restaurant,Supermarket,Spa,Smoke Shop
+2,Brooklyn,Sunset Park,40.64510294925429,-74.01031618527784,11,Bank,Bakery,Pizza Place,Mexican Restaurant,Latin American Restaurant,Fried Chicken Joint,Pharmacy,Mobile Phone Shop,Gym,Grocery Store
+3,Brooklyn,Greenpoint,40.7302009848647,-73.95424093127393,3,Bar,Coffee Shop,Pizza Place,Cocktail Bar,Grocery Store,Mexican Restaurant,Deli / Bodega,French Restaurant,Yoga Studio,Record Shop
+4,Brooklyn,Gravesend,40.59526001306593,-73.97347087708445,11,Chinese Restaurant,Lounge,Pizza Place,Bakery,Italian Restaurant,Diner,Bus Station,Pharmacy,Donut Shop,Furniture / Home Store
+5,Brooklyn,Brighton Beach,40.57682506566604,-73.96509448785336,3,Eastern European Restaurant,Russian Restaurant,Restaurant,Pharmacy,Mobile Phone Shop,Bank,Beach,Gourmet Shop,Sushi Restaurant,Supplement Shop
+6,Brooklyn,Sheepshead Bay,40.58689012678384,-73.94318640482979,3,Dessert Shop,Turkish Restaurant,Pizza Place,Buffet,Café,Sandwich Place,Russian Restaurant,Restaurant,Yoga Studio,Beer Garden
+7,Brooklyn,Manhattan Terrace,40.61443251335098,-73.95743840559939,11,Pizza Place,Donut Shop,Ice Cream Shop,Grocery Store,Coffee Shop,Convenience Store,Organic Grocery,Steakhouse,Bank,Bakery
+8,Brooklyn,Flatbush,40.63632589026677,-73.95840106533903,11,Coffee Shop,Mexican Restaurant,Deli / Bodega,Caribbean Restaurant,Bank,Juice Bar,Pharmacy,Lounge,Massage Studio,Bagel Shop
+9,Brooklyn,Crown Heights,40.67082917695294,-73.94329119073582,11,Pizza Place,Museum,Café,Coffee Shop,Playground,Bus Station,Supermarket,Candy Store,Liquor Store,Salon / Barbershop
+10,Brooklyn,East Flatbush,40.64171776668961,-73.93610256185836,11,Chinese Restaurant,Pharmacy,Supermarket,Park,Fast Food Restaurant,Liquor Store,Caribbean Restaurant,Department Store,Wine Shop,Fish Market
+11,Brooklyn,Kensington,40.642381958003526,-73.98042110559474,3,Thai Restaurant,Grocery Store,Pizza Place,Ice Cream Shop,Nail Salon,Furniture / Home Store,Liquor Store,Supermarket,Spa,Burger Joint
+12,Brooklyn,Windsor Terrace,40.65694583575104,-73.98007340430172,3,Diner,Deli / Bodega,Grocery Store,Park,Plaza,Sushi Restaurant,Beer Store,Wine Shop,Bookstore,Bar
+13,Brooklyn,Prospect Heights,40.676822262254724,-73.9648592426269,3,Bar,Mexican Restaurant,Cocktail Bar,Thai Restaurant,Coffee Shop,Bakery,New American Restaurant,Wine Shop,Wine Bar,Pizza Place
+14,Brooklyn,Brownsville,40.66394994339755,-73.91023536176607,11,Chinese Restaurant,Fried Chicken Joint,Spanish Restaurant,Trail,Pool,Pizza Place,Pharmacy,Performing Arts Venue,Park,Farmers Market
+15,Brooklyn,Williamsburg,40.70714439344251,-73.95811529220927,3,Pizza Place,Bagel Shop,Coffee Shop,Yoga Studio,Middle Eastern Restaurant,Taco Place,Liquor Store,Steakhouse,Lounge,Breakfast Spot
+16,Brooklyn,Bushwick,40.69811611017901,-73.92525797487045,3,Deli / Bodega,Bar,Mexican Restaurant,Coffee Shop,Discount Store,Thrift / Vintage Store,Pizza Place,Fast Food Restaurant,Taco Place,Bakery
+17,Brooklyn,Bedford Stuyvesant,40.687231607720456,-73.94178488690297,3,Coffee Shop,Café,Pizza Place,Deli / Bodega,Bar,Gourmet Shop,Thrift / Vintage Store,Juice Bar,Community Center,Basketball Court
+18,Brooklyn,Brooklyn Heights,40.695863722724084,-73.99378225496424,3,Deli / Bodega,Yoga Studio,Cosmetics Shop,Pizza Place,Coffee Shop,Italian Restaurant,Gym,Park,Pharmacy,Bakery
+19,Brooklyn,Cobble Hill,40.687919722485574,-73.99856139218463,3,Playground,Pizza Place,Cocktail Bar,Coffee Shop,Bar,Italian Restaurant,Chinese Restaurant,Middle Eastern Restaurant,Bakery,Deli / Bodega
+20,Brooklyn,Carroll Gardens,40.680540231076485,-73.99465372828006,3,Italian Restaurant,Coffee Shop,Bakery,Pizza Place,Cocktail Bar,Wine Shop,Bar,Spa,Gourmet Shop,French Restaurant
+21,Brooklyn,Red Hook,40.676253230250886,-74.0127589747356,3,Art Gallery,Seafood Restaurant,Bar,Park,Flower Shop,Bagel Shop,Farm,Brewery,Ice Cream Shop,Pizza Place
+22,Brooklyn,Gowanus,40.673931143187154,-73.99444087145339,3,Italian Restaurant,Pizza Place,Bar,Furniture / Home Store,Coffee Shop,Music Venue,Playground,Art Gallery,Deli / Bodega,Chinese Restaurant
+23,Brooklyn,Fort Greene,40.68852726018977,-73.97290574369092,3,Italian Restaurant,Wine Shop,Flower Shop,Yoga Studio,Cocktail Bar,Grocery Store,French Restaurant,Opera House,Pizza Place,Coffee Shop
+24,Brooklyn,Park Slope,40.67232052268197,-73.97705030183924,3,Coffee Shop,Burger Joint,Bagel Shop,Pizza Place,Italian Restaurant,Pub,Mexican Restaurant,Spa,Bakery,Bookstore
+25,Brooklyn,Cypress Hills,40.68239101144211,-73.87661596457296,11,Fast Food Restaurant,Latin American Restaurant,Ice Cream Shop,Fried Chicken Joint,Pizza Place,Spanish Restaurant,Mexican Restaurant,Metro Station,Gas Station,Caribbean Restaurant
+26,Brooklyn,East New York,40.669925700847045,-73.88069863917366,11,Spanish Restaurant,Deli / Bodega,Event Service,Plaza,Pizza Place,Home Service,Fried Chicken Joint,Asian Restaurant,Gym,Salon / Barbershop
+27,Brooklyn,Starrett City,40.64758905230874,-73.87936970045875,11,Bus Station,Donut Shop,Moving Target,Gym Pool,Shopping Mall,Pharmacy,Bus Stop,Caribbean Restaurant,Pizza Place,American Restaurant
+28,Brooklyn,Canarsie,40.63556432797428,-73.90209269778966,14,Deli / Bodega,Asian Restaurant,Caribbean Restaurant,Thai Restaurant,Chinese Restaurant,Gym,Discount Store,Factory,Food Court,Food & Drink Shop
+29,Brooklyn,Flatlands,40.630446043757466,-73.92911302644674,11,Pharmacy,Fried Chicken Joint,Fast Food Restaurant,Caribbean Restaurant,Deli / Bodega,Bus Station,Lounge,Bar,Paper / Office Supplies Store,Park
+30,Brooklyn,Mill Island,40.606336421685626,-73.90818571777423,10,Pool,Locksmith,Women's Store,Fish & Chips Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field,Filipino Restaurant
+31,Brooklyn,Manhattan Beach,40.57791350308657,-73.94353722891886,11,Bus Stop,Café,Ice Cream Shop,Sandwich Place,Playground,Pizza Place,Beach,Falafel Restaurant,Farm,Farmers Market
+32,Brooklyn,Coney Island,40.57429256471601,-73.98868295821637,3,Monument / Landmark,Baseball Stadium,Brewery,Theme Park Ride / Attraction,Cosmetics Shop,Pharmacy,Caribbean Restaurant,Farmers Market,Skating Rink,Music Venue
+33,Brooklyn,Bath Beach,40.59951870282238,-73.99875221443519,11,Pizza Place,Pharmacy,Chinese Restaurant,Donut Shop,Italian Restaurant,Bubble Tea Shop,Peruvian Restaurant,Gas Station,Fast Food Restaurant,Sports Bar
+34,Brooklyn,Borough Park,40.633130512758015,-73.99049823044811,11,Bank,Pizza Place,Deli / Bodega,Fast Food Restaurant,Pharmacy,Hotel,Coffee Shop,Café,Men's Store,Farmers Market
+35,Brooklyn,Dyker Heights,40.619219457722636,-74.01931375636022,3,Grocery Store,Dance Studio,Burger Joint,Golf Course,Playground,Bagel Shop,Field,Factory,Falafel Restaurant,Farm
+36,Brooklyn,Gerritsen Beach,40.590848433902046,-73.93010170691196,3,Bar,Pizza Place,Deli / Bodega,Harbor / Marina,Martial Arts School,Gas Station,Boat or Ferry,Grocery Store,Baseball Field,Seafood Restaurant
+37,Brooklyn,Marine Park,40.609747779894604,-73.93134404108497,11,Deli / Bodega,Pharmacy,Chinese Restaurant,Basketball Court,Baseball Field,Gym,Coffee Shop,Athletics & Sports,Pizza Place,Soccer Field
+38,Brooklyn,Clinton Hill,40.693229421881504,-73.96784306216367,3,Pizza Place,Italian Restaurant,Thai Restaurant,Mexican Restaurant,Wine Shop,Caribbean Restaurant,Restaurant,Diner,Yoga Studio,Japanese Restaurant
+39,Brooklyn,Sea Gate,40.57637537890224,-74.0078731120024,3,Bus Station,Home Service,Business Service,Beach,Sports Club,Spa,American Restaurant,Food & Drink Shop,Food,Flower Shop
+40,Brooklyn,Downtown,40.69084402109802,-73.98346337431099,3,Coffee Shop,Burger Joint,Pizza Place,Sandwich Place,Chinese Restaurant,Arts & Crafts Store,Bakery,Middle Eastern Restaurant,Bar,Juice Bar
+41,Brooklyn,Boerum Hill,40.685682912091444,-73.98374824115798,3,Dance Studio,Coffee Shop,Bar,French Restaurant,Furniture / Home Store,Bakery,Sandwich Place,Arts & Crafts Store,Yoga Studio,Cocktail Bar
+42,Brooklyn,Prospect Lefferts Gardens,40.658420017469815,-73.95489867077713,11,Pizza Place,Café,Caribbean Restaurant,Bakery,Indian Restaurant,Wine Shop,Deli / Bodega,Sushi Restaurant,Supermarket,Coffee Shop
+43,Brooklyn,Ocean Hill,40.678402554795355,-73.91306831787395,11,Deli / Bodega,Bakery,Fried Chicken Joint,Southern / Soul Food Restaurant,Ice Cream Shop,Coffee Shop,Bus Line,Playground,Mexican Restaurant,Supermarket
+44,Brooklyn,City Line,40.67856995727479,-73.86797598081334,11,Donut Shop,Pharmacy,Grocery Store,Fried Chicken Joint,Liquor Store,Metro Station,Mexican Restaurant,Diner,Mobile Phone Shop,Bus Line
+45,Brooklyn,Bergen Beach,40.61514955045308,-73.89855633630317,3,Harbor / Marina,Baseball Field,Athletics & Sports,Park,Hockey Field,Playground,Factory,Falafel Restaurant,Farm,Farmers Market
+46,Brooklyn,Midwood,40.62559589869843,-73.95759523489838,11,Pizza Place,Ice Cream Shop,Market,Candy Store,Video Game Store,Convenience Store,Bakery,Bagel Shop,Pharmacy,Women's Store
+47,Brooklyn,Prospect Park South,40.647008603185185,-73.96261316716048,11,Caribbean Restaurant,Mobile Phone Shop,Pizza Place,Fried Chicken Joint,Grocery Store,Fast Food Restaurant,Department Store,Mexican Restaurant,Kids Store,Latin American Restaurant
+48,Brooklyn,Georgetown,40.62384524478419,-73.91607483951324,11,Bank,Donut Shop,Pharmacy,Breakfast Spot,Mexican Restaurant,Supplement Shop,Frozen Yogurt Shop,Seafood Restaurant,Clothing Store,Shipping Store
+49,Brooklyn,East Williamsburg,40.70849241041548,-73.93885815269195,3,Bar,Deli / Bodega,Bakery,Cocktail Bar,Sandwich Place,Café,Mexican Restaurant,Concert Hall,Coffee Shop,Donut Shop
+50,Brooklyn,North Side,40.714822906532014,-73.95880857587582,3,Coffee Shop,Bar,Pizza Place,Bakery,Yoga Studio,American Restaurant,Wine Bar,Jewelry Store,Ice Cream Shop,Vegetarian / Vegan Restaurant
+51,Brooklyn,South Side,40.71086147265064,-73.95800095153331,3,Bar,Coffee Shop,Pizza Place,American Restaurant,Wine Bar,Yoga Studio,Dive Bar,Mediterranean Restaurant,South American Restaurant,Chinese Restaurant
+52,Brooklyn,Ocean Parkway,40.61305976667942,-73.96836678035541,11,Pizza Place,Sushi Restaurant,Playground,Gym,Spa,Bus Station,Bus Stop,Steakhouse,Men's Store,Sake Bar
+53,Brooklyn,Fort Hamilton,40.61476812694226,-74.03197914537984,11,Pizza Place,Deli / Bodega,Pharmacy,Sandwich Place,Chinese Restaurant,Italian Restaurant,Bus Stop,Cocktail Bar,Japanese Restaurant,Bank
+54,Brooklyn,Ditmas Park,40.643675183340974,-73.96101312466779,11,Chinese Restaurant,Fried Chicken Joint,Deli / Bodega,Pizza Place,Pharmacy,Metro Station,Kids Store,Donut Shop,Department Store,Supermarket
+55,Brooklyn,Wingate,40.66094656188111,-73.93718680559314,11,Fried Chicken Joint,Field,Liquor Store,Burger Joint,Bus Station,Food,Flower Shop,Fish & Chips Shop,Fast Food Restaurant,Gym / Fitness Center
+56,Brooklyn,Rugby,40.655572313280764,-73.92688212616955,11,Caribbean Restaurant,Grocery Store,Bank,Sandwich Place,Wings Joint,Pizza Place,Diner,Mobile Phone Shop,Fried Chicken Joint,Pharmacy
+57,Brooklyn,Remsen Village,40.652117451793494,-73.91665331978048,11,Caribbean Restaurant,Fast Food Restaurant,Donut Shop,Gym,Café,Sandwich Place,Supermarket,Pharmacy,Gas Station,Construction & Landscaping
+58,Brooklyn,New Lots,40.6627442796966,-73.88511776379292,11,Spanish Restaurant,Pizza Place,Fried Chicken Joint,Grocery Store,Deli / Bodega,Bus Station,Chinese Restaurant,Discount Store,Plaza,Art Gallery
+59,Brooklyn,Paerdegat Basin,40.63131755039667,-73.90233474295836,12,Gym,Food,Child Care Service,Shipping Store,Harbor / Marina,Women's Store,Farmers Market,Factory,Falafel Restaurant,Farm
+60,Brooklyn,Mill Basin,40.61597423962336,-73.91515391550404,11,Pizza Place,Chinese Restaurant,Japanese Restaurant,Gym,Bagel Shop,Cosmetics Shop,Bank,Breakfast Spot,Sandwich Place,Donut Shop
+61,Brooklyn,Fulton Ferry,40.70328109093014,-73.99550751888415,3,Park,Roof Deck,American Restaurant,Ice Cream Shop,Pizza Place,Boat or Ferry,Playground,Café,Scenic Lookout,Coffee Shop
+62,Brooklyn,Vinegar Hill,40.70332149882874,-73.98111603592393,3,Food Truck,Café,Coffee Shop,Art Gallery,Park,Factory,Scenic Lookout,Latin American Restaurant,Bookstore,Entertainment Service
+63,Brooklyn,Weeksville,40.67503986503237,-73.93053108817338,3,Chinese Restaurant,Grocery Store,Park,Coffee Shop,Laundry Service,Gas Station,Donut Shop,Liquor Store,Juice Bar,Lounge
+64,Brooklyn,Broadway Junction,40.67786104769531,-73.90331684852599,11,Gas Station,Donut Shop,Dessert Shop,Breakfast Spot,Sandwich Place,Burger Joint,Nightclub,Metro Station,Tunnel,Caribbean Restaurant
+65,Brooklyn,Dumbo,40.70317632822692,-73.9887528074504,3,Park,Coffee Shop,Scenic Lookout,Bakery,Ice Cream Shop,Pizza Place,Playground,Café,Boxing Gym,Bookstore
+66,Brooklyn,Homecrest,40.598525095137255,-73.95918459428702,11,Bank,Donut Shop,Chinese Restaurant,Sandwich Place,Pizza Place,Mexican Restaurant,Grocery Store,Sushi Restaurant,Other Repair Shop,Tattoo Parlor
+67,Brooklyn,Highland Park,40.6819989345173,-73.890345709872,11,Grocery Store,Deli / Bodega,Park,Spanish Restaurant,Furniture / Home Store,Garden,Tennis Court,Liquor Store,Latin American Restaurant,Gym / Fitness Center
+68,Brooklyn,Madison,40.60937770113766,-73.94841515328893,3,Bagel Shop,Restaurant,Dessert Shop,Hobby Shop,Candy Store,Pizza Place,Pilates Studio,Italian Restaurant,Spa,Field
+69,Brooklyn,Erasmus,40.64692606658579,-73.94817709920184,11,Caribbean Restaurant,Yoga Studio,Juice Bar,Food Truck,Mobile Phone Shop,Furniture / Home Store,School,Chinese Restaurant,Music Venue,Grocery Store
+0,Coventry,Coventry City Centre,52.40655135150075,-1.522541031842368,13,Indian Restaurant,Pub,Hotel,Clothing Store,Arcade,Casino,General Entertainment,Grocery Store,Gym / Fitness Center,Historic Site
+1,Coventry, Gosford Green,52.40655135150075,-1.522541031842368,13,Indian Restaurant,Pub,Hotel,Clothing Store,Arcade,Casino,General Entertainment,Grocery Store,Gym / Fitness Center,Historic Site
+2,Coventry, Hillfields,52.40655135150075,-1.522541031842368,13,Indian Restaurant,Pub,Hotel,Clothing Store,Arcade,Casino,General Entertainment,Grocery Store,Gym / Fitness Center,Historic Site
+3,Coventry, Spon End,52.40655135150075,-1.522541031842368,13,Indian Restaurant,Pub,Hotel,Clothing Store,Arcade,Casino,General Entertainment,Grocery Store,Gym / Fitness Center,Historic Site
+4,Coventry, Coventry University,52.40655135150075,-1.522541031842368,13,Indian Restaurant,Pub,Hotel,Clothing Store,Arcade,Casino,General Entertainment,Grocery Store,Gym / Fitness Center,Historic Site
+5,Coventry,Walsgrave,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+6,Coventry, Wyken,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+7,Coventry, Stoke,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+8,Coventry, Bell Green,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+9,Coventry, Wood End,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+10,Coventry, Potters Green,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+11,Coventry, Aldermans Green,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+12,Coventry, Clifford Park,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+13,Coventry, Woodway Park,52.4241685,-1.4396176,6,Coffee Shop,Stationery Store,Pub,Wine Shop,Clothing Store,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+14,Coventry,Binley,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+15,Coventry, Whitley,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+16,Coventry, Willenhall,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+17,Coventry, Cheylesmore,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+18,Coventry, Styvechale,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+19,Coventry, Finham,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+20,Coventry, Fenside,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+21,Coventry, Stoke Aldermoor,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+22,Coventry, Green Lane,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+23,Coventry, Ernesford Grange,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+24,Coventry, Binley Woods,52.38730632763749,-1.5028970982345609,4,Convenience Store,Chinese Restaurant,Pizza Place,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store
+25,Coventry,Tile Hill,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+26,Coventry, Canley,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+27,Coventry, Cannon Park,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+28,Coventry, Lime Tree Park,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+29,Coventry, Gibbet Hill,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+30,Coventry, Westwood Heath,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+31,Coventry, University of Warwick,52.375322,-1.5551956,2,Music Venue,Café,Wine Shop,Convenience Store,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+32,Coventry,Allesley,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+33,Coventry, Allesley Park,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+34,Coventry, Allesley Green,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+35,Coventry, Earlsdon,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+36,Coventry, Eastern Green,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+37,Coventry, Whoberley,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+38,Coventry, Chapelfields,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+39,Coventry, Mount Nod,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+40,Coventry, Brownshill Green,52.40046043333333,-1.5313480333333336,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Liquor Store
+41,Coventry,Holbrooks,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+42,Coventry, Coundon,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+43,Coventry, Radford,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+44,Coventry, Longford,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+45,Coventry, Rowley's Green,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+46,Coventry, Courthouse Green,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+47,Coventry, Whitmore Park,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+48,Coventry, Hawkesbury,52.429892349830865,-1.5193316097304195,8,Wine Shop,Grocery Store,Supermarket,Men's Store,Sandwich Place,Pizza Place,Clothing Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+49,Coventry,Weddington,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+50,Coventry, Stockingford,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+51,Coventry, Camp Hill,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+52,Coventry, Galley Common,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+53,Coventry, Grove Farm,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+54,Coventry, Whittleford,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+55,Coventry, Chapel End,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+56,Coventry, Bermuda Village,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+57,Coventry, Caldecote,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+58,Coventry, Fenny Drayton,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+59,Coventry, Hartshill,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+60,Coventry, Ansley,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+61,Coventry, Astley,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+62,Coventry, Oldbury,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+63,Coventry, Ridge Lane,52.430327950000006,-1.5328284720570369,1,Liquor Store,Pub,Wine Shop,Coffee Shop,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+64,Coventry,town centre,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+65,Coventry, Abbey Green,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+66,Coventry, St Nicolas Park,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+67,Coventry, Horeston Grange,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+68,Coventry, Attleborough,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+69,Coventry, Whitestone,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+70,Coventry, Hill Top,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+71,Coventry, Chilvers Coton,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+72,Coventry, Caldwell,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+73,Coventry, Burton Hastings,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+74,Coventry, Bramcote,52.5222012,-1.4677622,7,Clothing Store,Furniture / Home Store,Sandwich Place,Coffee Shop,Pharmacy,Pizza Place,Pub,Museum,Nightclub,Bistro
+75,Coventry,except Exhall and Ash Green,52.4748127,-1.4760862,9,Grocery Store,Indian Restaurant,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+76,Coventry, Bulkington,52.4748127,-1.4760862,9,Grocery Store,Indian Restaurant,Wine Shop,Coffee Shop,Historic Site,Gym / Fitness Center,General Entertainment,Furniture / Home Store,Fish & Chips Shop,Fast Food Restaurant
+77,Coventry,north,52.3997101,-1.5313387981891347,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Supermarket
+78,Coventry, Brownsover,52.3997101,-1.5313387981891347,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Supermarket
+79,Coventry,south,52.3376448,-1.2912497,5,Indian Restaurant,Restaurant,Pub,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+80,Coventry, Bilton,52.3376448,-1.2912497,5,Indian Restaurant,Restaurant,Pub,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+81,Coventry, Cawston,52.3376448,-1.2912497,5,Indian Restaurant,Restaurant,Pub,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+82,Coventry, Dunchurch,52.3376448,-1.2912497,5,Indian Restaurant,Restaurant,Pub,Coffee Shop,Historic Site,Gym / Fitness Center,Grocery Store,General Entertainment,Furniture / Home Store,Fish & Chips Shop
+87,Coventry,north,52.3997101,-1.5313387981891347,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Supermarket
+88,Coventry, Cubbington,52.3997101,-1.5313387981891347,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Supermarket
+89,Coventry, Lillington,52.3997101,-1.5313387981891347,0,Indian Restaurant,Pub,Italian Restaurant,Beer Store,Park,Persian Restaurant,Café,Sandwich Place,Restaurant,Supermarket
